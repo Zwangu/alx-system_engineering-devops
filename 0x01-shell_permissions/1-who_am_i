@@ -1,2 +1,2 @@
 #!/bin/bash
-Task. 1 Who am i?
+id -u -n
